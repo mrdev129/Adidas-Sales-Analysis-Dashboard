@@ -1,4 +1,4 @@
-# 📊 Adidas Sales Analysis Dashboard (Power BI)
+# 📊 Adidas Sales Analysis Dashboard
 
 > An interactive Power BI dashboard that analyzes Adidas US sales performance, helping stakeholders monitor revenue, profitability, product performance, regional sales, and retailer contributions through dynamic visualizations and KPIs.
 
