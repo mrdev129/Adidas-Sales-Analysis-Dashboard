@@ -38,8 +38,7 @@ README.md
 ```
 ---
 ## Dashboard Preview
-Add the dashboard screenshot inside the Images folder and display it here.
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 ---
 ## Key Insights
 - Total Sales: $899.90M
