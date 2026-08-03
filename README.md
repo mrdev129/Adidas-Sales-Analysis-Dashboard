@@ -192,9 +192,9 @@ Aspiring **Data Analyst** passionate about transforming raw data into actionable
 
 ### Connect with me
 
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin
-- **GitHub:** https://github.com/your-github
-- **Email:** your-email@example.com
+- **LinkedIn:** [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/debabrata-behera-776a4b325)
+- **GitHub:** [https://github.com/your-github](https://github.com/mrdev129)
+- **Email:** beheradebabrata507@gmail.com
 
 ---
 
